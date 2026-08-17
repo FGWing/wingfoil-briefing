@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:windfinder.com)",
+      "WebFetch(domain:www.windfinder.com)",
+      "WebFetch(domain:soarcast.nl)",
+      "WebFetch(domain:www.soarcast.nl)",
+      "WebFetch(domain:windwaarnemingen.nl)",
+      "WebFetch(domain:www.windwaarnemingen.nl)"
+    ]
+  }
+}
