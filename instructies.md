@@ -124,4 +124,4 @@ sessie, met de dag(en) die het kansrijkst lijken.
 Vul `sjabloon.md` volledig in met de bevindingen van deze run. Post het
 resultaat naar Slack in kanaal #wingfoil-briefing via de Slack-connector.
 Houd de Slack-versie beknopt en scanbaar (gebruik emoji-kopjes zoals in het
-sjabloon, geen lange lappen tekst per dag).
+sjabloon, geen lange lappen tekst per dag). Voeg 2 afbeeldingen toe: bij de avond briefing de windforecast van "morgen" en "overmorgen" van soarcast en bij de ochtend briefing de forecast van "vandaag" en "morgen"
