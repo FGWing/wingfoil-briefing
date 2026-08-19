@@ -2,11 +2,11 @@
 _[datum] · [Ochtendbriefing / Avondbriefing]_
 
 ## ⚡ Snel overzicht
-- **Vandaag:** [Oordeel]
-- **Morgen:** [Oordeel]
-- **Overmorgen:** [Oordeel]
+- **Vandaag:** [Oordeel] ([tijdvenster, bv. 14:00-17:00])
+- **Morgen:** [Oordeel] ([tijdvenster])
+- **Overmorgen:** [Oordeel] ([tijdvenster])
 - **Beste dag in de 7 dagen erna:** [dag] [datum] augustus
-_(dag 4 t/m 9 vanaf vandaag; kies de dag met het hoogste oordeel — bij gelijke stand de dag met het langste/breedste goede venster)_
+_(dag 4 t/m 9 vanaf vandaag; kies de dag met het hoogste oordeel — bij gelijke stand de dag met het langste/breedste goede venster. Tijdvenster = het beste/langste venster van die dag; bij Slecht: laat het tijdvenster weg)_
 
 ---
 
