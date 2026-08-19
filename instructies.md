@@ -174,10 +174,10 @@ uitgebreider herformuleren.
 
 | Oordeel | Wind gemiddeld | Golfhoogte + periode | Windrichting |
 |---|---|---|---|
-| **Optimaal** | 14-25 kts | golf >1,1m EN periode ≥5s | side-shore of licht aflandig |
-| **Goed (a)** | 14-25 kts | golf <1,1m OF periode <5s | licht aanlandig |
-| **Goed (b)** | <15 kts (gust <19) | golf >1,1m EN periode ≥5s | niet pal aanlandig |
-| **Matig** | <15 kts (gust <19) | golf <1,1m OF periode <5s | (ongeacht) |
+| **Optimaal** | 14-25 kts | golf >0,95m EN periode ≥4,5s | side-shore of licht aflandig |
+| **Goed (a)** | 14-25 kts | golf <0,95m OF periode <4,5s | licht aanlandig |
+| **Goed (b)** | <15 kts (gust <19) | golf >0,95m EN periode ≥4,5s | niet pal aanlandig |
+| **Matig** | <15 kts (gust <19) | golf <0,95m OF periode <4,5s | (ongeacht) |
 | **Slecht** | gust <16 kts ÉN gem <14 kts | (ongeacht) | (ongeacht) |
 | **Slecht** | (ongeacht) | grote branding, geen pierbescherming | pal aanlandig |
 
