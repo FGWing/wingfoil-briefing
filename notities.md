@@ -17,7 +17,7 @@ alleen "klopte niet").
 ## Log
 
 | Datum | Briefing zei | Werkelijkheid op het water | Vermoedelijke oorzaak | Actie nodig? |
-|18-08-2026|Goed (grensgeval met optimaal)|Optimaal|Golfhoogte en tijd tussen golven was voldoende|Overwegen: Golfhoogte drempel omlaag naar 1m en 4,5s|
+|18-08-2026|Goed (grensgeval met optimaal)|Optimaal|Golfhoogte en tijd tussen golven was voldoende|Ja: Golfhoogte drempel omlaag naar 1m en tijd naar 4,5s|
 | | | | | |
 | | | | | |
 
