@@ -42,3 +42,24 @@ alleen "klopte niet").
       na een paar weken observatie nog kloppen
 - [ ] Overwegen of een vierde categorie "Uitstekend" nuttig is voor de
       allerbeste omstandigheden (bv. wind >20kts + golf >1,3m + optimale hoek)
+- [ ] **Sessie-tooling is niet altijd hetzelfde tussen runs, en dat raakt
+      windwaarnemingen.nl direct.** `instructies.md` gaat ervan uit dat
+      "get_page_text" een JS-uitvoerende (browser-gebaseerde) extractietool
+      is: voor windwaarnemingen.nl moet eerst een change-event op de
+      station-dropdown gesimuleerd worden (clientside JS) voordat de tabel
+      met echte cijfers verschijnt. In de runs van 19 t/m 23-08 werkte dit
+      prima (zie de Realitycheck-secties in die briefings). In de
+      avondbriefing van 23-08 had de sessie echter alleen een platte
+      `WebFetch`-tool (haalt kale HTML op, voert geen JavaScript uit) —
+      daardoor kwam er voor windwaarnemingen.nl alleen het lege menu terug,
+      geen tabeldata. Dit is dus geen inhoudelijke wijziging aan de bron,
+      maar een verschil in beschikbare tooling tussen sessies.
+      Actie: bij het begin van een run kort vaststellen of de sessie een
+      browser-/JS-uitvoerende extractietool heeft; zo niet, dit expliciet
+      vermelden in de briefing (zoals nu gebeurd) i.p.v. alleen te melden
+      dat de bron "niet beschikbaar" was — het onderscheid tussen "bron is
+      down" en "sessie mist de juiste tool" is voor de lezer nuttig.
+      Zie ook: Windfinder dag-3/Superforecast-pagina's falen al langer
+      structureel om dezelfde reden (dag-tabs vereisen een klik/JS), en
+      Soarcast wisselt tussen runs (werkte 19-22/08 via een blijkbaar niet
+      stabiel data-endpoint, faalde sindsdien).
